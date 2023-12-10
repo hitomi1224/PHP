@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.useLocalIp": true,
+  "liveServer.settings.CustomBrowser": null,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "phpserver.phpPath": "C:\\php8.3\\php.exe",
+  "phpserver.port": 3000,
+  "php.validate.executablePath": "C:/php8.3/php.exe",
+  "phpserver.relativePath": ""
+}
